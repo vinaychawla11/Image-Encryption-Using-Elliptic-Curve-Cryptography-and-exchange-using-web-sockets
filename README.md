@@ -1,0 +1,2 @@
+# Image-Encryption-Using-Elliptic-Curve-Cryptography-and-exchange-using-web-sockets
+This is my final year project along with 2 of my peers, which uses AES-256 along with Elliptic Curve key generation and sharing to encrypt images. It uses what is known as Elliptic Curve Integrated Encryption Scheme. It is coded in Python and uses web socket to share images between 2 clients. It encrypts the image before sending and decrypts it on the receiver side using the above mentioned scheme. 
